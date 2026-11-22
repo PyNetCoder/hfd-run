@@ -17,7 +17,7 @@ return {
     {
         "PyNetCoder/hfd-run",
         dependencies = {
-            "PyNetCoder/hfd-terminal.nvim",
+            "PyNetCoder/hfd-terminal",
         },
         cmd = "HfdRun",
         keys = {
